@@ -12,7 +12,7 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "base64url": "^3.0.1",
     "nativescript-bootreceiver": "^1.0.0",
     "nativescript-randombytes": "^1.0.0",
